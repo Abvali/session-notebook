@@ -15,7 +15,8 @@ body {
   border-radius: 10px;
 }
 .logo {
-  width: 150px;
+  width: 200px;
+  height: 200px;
   display: block;
   margin: auto;
   border: 2px dotted gray;
